@@ -1,0 +1,30 @@
+{
+    "target": "is_returned",
+    "best_model": "LogisticRegression_SMOTE",
+    "experiments": [
+        {
+            "experiment": "LogisticRegression_SMOTE",
+            "date": "2026-11-12",
+            "random_state": 42,
+            "train_rows_pre_smote": 400,
+            "train_rows_post_smote": 622,
+            "test_rows": 100,
+            "accuracy": 0.58,
+            "precision": 0.2059,
+            "recall": 0.3182,
+            "f1_score": 0.25
+        },
+        {
+            "experiment": "RandomForest_SMOTE",
+            "date": "2026-11-12",
+            "random_state": 42,
+            "train_rows_pre_smote": 400,
+            "train_rows_post_smote": 622,
+            "test_rows": 100,
+            "accuracy": 0.77,
+            "precision": 0.3333,
+            "recall": 0.0455,
+            "f1_score": 0.08
+        }
+    ]
+}
