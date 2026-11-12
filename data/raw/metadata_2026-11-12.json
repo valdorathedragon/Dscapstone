@@ -1,0 +1,18 @@
+{
+    "project": "AI-Ready E-Commerce Analytics Pipeline",
+    "date_collected": "2026-11-12",
+    "version": "v1_raw",
+    "sources": {
+        "customers": "https://jsonplaceholder.typicode.com/users (REST API)",
+        "orders": "sqlite:///data/raw/ecommerce.db (SQL Table: orders)"
+    },
+    "customers_shape": [
+        10,
+        15
+    ],
+    "orders_shape": [
+        505,
+        9
+    ],
+    "notes": "Raw immutable snapshot prior to deduplication, imputation, and validation."
+}
