@@ -1,0 +1,501 @@
+order_id,customer_id,order_date,category,quantity,unit_price,discount_pct,order_status,review_text,customer_name,city,company,net_revenue
+1001,1,2026-01-01 00:00:00,Electronics,5,128.25,0.2,Returned,Great product and fast delivery,Leanne Graham,Gwenborough,Romaguera-Crona,513.0
+1002,8,2026-01-01 06:00:00,Home & Kitchen,4,155.28,0.0,Returned,"Terrible quality, requesting refund",Nicholas Runolfsdottir V,Aliyaview,Abernathy Group,621.12
+1003,7,2026-01-01 12:00:00,Books,3,120.48,0.2,Cancelled,"Item arrived damaged, poor packaging",Kurtis Weissnat,Howemouth,Johns Group,289.15
+1004,5,2026-01-01 18:00:00,Books,5,223.74,0.0,Cancelled,"Item arrived damaged, poor packaging",Chelsey Dietrich,Roscoeview,Keebler LLC,1118.7
+1005,5,2026-01-02 00:00:00,Electronics,1,312.22,0.0,Returned,Great product and fast delivery,Chelsey Dietrich,Roscoeview,Keebler LLC,312.22
+1006,9,2026-01-02 06:00:00,Apparel,5,114.29,0.0,Completed,"Exceeded expectations, highly recommend",Glenna Reichert,Bartholomebury,Yost and Sons,571.45
+1007,1,2026-01-02 12:00:00,Apparel,5,158.87,0.1,Completed,"Exceeded expectations, highly recommend",Leanne Graham,Gwenborough,Romaguera-Crona,714.92
+1008,7,2026-01-02 18:00:00,Electronics,3,419.72,0.2,Completed,"Exceeded expectations, highly recommend",Kurtis Weissnat,Howemouth,Johns Group,1007.33
+1009,3,2026-01-03 00:00:00,Electronics,4,36.13,0.1,Returned,Great product and fast delivery,Clementine Bauch,McKenziehaven,Romaguera-Jacobson,130.07
+1010,1,2026-01-03 06:00:00,Electronics,3,215.43,0.0,Cancelled,"Item arrived damaged, poor packaging",Leanne Graham,Gwenborough,Romaguera-Crona,646.29
+1011,6,2026-01-03 12:00:00,Books,2,678.18,0.0,Completed,"Exceeded expectations, highly recommend",Mrs. Dennis Schulist,South Christy,Considine-Lockman,1356.36
+1012,10,2026-01-03 18:00:00,Home & Kitchen,4,80.45,0.1,Completed,"Works as expected, good value",Clementina DuBuque,Lebsackbury,Hoeger LLC,289.62
+1013,8,2026-01-04 00:00:00,Books,2,35.61,0.1,Completed,Great product and fast delivery,Nicholas Runolfsdottir V,Aliyaview,Abernathy Group,64.1
+1014,8,2026-01-04 06:00:00,Books,2,75.12,0.2,Returned,Great product and fast delivery,Nicholas Runolfsdottir V,Aliyaview,Abernathy Group,120.19
+1015,8,2026-01-04 12:00:00,Books,3,414.69,0.0,Completed,"Item arrived damaged, poor packaging",Nicholas Runolfsdottir V,Aliyaview,Abernathy Group,1244.07
+1016,8,2026-01-04 18:00:00,Electronics,5,19.03,0.1,Completed,"Exceeded expectations, highly recommend",Nicholas Runolfsdottir V,Aliyaview,Abernathy Group,85.64
+1017,6,2026-01-05 00:00:00,Books,2,96.92,0.2,Completed,Great product and fast delivery,Mrs. Dennis Schulist,South Christy,Considine-Lockman,155.07
+1018,2,2026-01-05 06:00:00,Electronics,3,28.61,0.1,Completed,"Exceeded expectations, highly recommend",Ervin Howell,Wisokyburgh,Deckow-Crist,77.25
+1019,9,2026-01-05 12:00:00,Apparel,1,63.12,0.0,Completed,"Terrible quality, requesting refund",Glenna Reichert,Bartholomebury,Yost and Sons,63.12
+1020,5,2026-01-05 18:00:00,Apparel,1,284.76,0.1,Returned,"Exceeded expectations, highly recommend",Chelsey Dietrich,Roscoeview,Keebler LLC,256.28
+1021,6,2026-01-06 00:00:00,Electronics,1,120.11,0.1,Completed,"Exceeded expectations, highly recommend",Mrs. Dennis Schulist,South Christy,Considine-Lockman,108.1
+1022,4,2026-01-06 06:00:00,Electronics,1,262.61,0.0,Completed,"Item arrived damaged, poor packaging",Patricia Lebsack,South Elvis,Robel-Corkery,262.61
+1023,2,2026-01-06 12:00:00,Electronics,5,271.73,0.05,Completed,"Exceeded expectations, highly recommend",Ervin Howell,Wisokyburgh,Deckow-Crist,1290.72
+1024,10,2026-01-06 18:00:00,Books,5,384.5,0.1,Completed,Great product and fast delivery,Clementina DuBuque,Lebsackbury,Hoeger LLC,1730.25
+1025,8,2026-01-07 00:00:00,Electronics,5,17.06,0.0,Completed,"Item arrived damaged, poor packaging",Nicholas Runolfsdottir V,Aliyaview,Abernathy Group,85.3
+1026,7,2026-01-07 06:00:00,Electronics,1,386.22,0.05,Returned,"Item arrived damaged, poor packaging",Kurtis Weissnat,Howemouth,Johns Group,366.91
+1027,5,2026-01-07 12:00:00,Books,1,284.32,0.1,Completed,Great product and fast delivery,Chelsey Dietrich,Roscoeview,Keebler LLC,255.89
+1028,9,2026-01-07 18:00:00,Electronics,2,85.79,0.1,Returned,Great product and fast delivery,Glenna Reichert,Bartholomebury,Yost and Sons,154.42
+1029,6,2026-01-08 00:00:00,Books,3,351.23,0.0,Completed,Great product and fast delivery,Mrs. Dennis Schulist,South Christy,Considine-Lockman,1053.69
+1030,5,2026-01-08 06:00:00,Books,2,387.14,0.1,Cancelled,Great product and fast delivery,Chelsey Dietrich,Roscoeview,Keebler LLC,696.85
+1031,5,2026-01-08 12:00:00,Apparel,3,125.6,0.1,Returned,"Item arrived damaged, poor packaging",Chelsey Dietrich,Roscoeview,Keebler LLC,339.12
+1032,3,2026-01-08 18:00:00,Electronics,1,414.68,0.1,Completed,Great product and fast delivery,Clementine Bauch,McKenziehaven,Romaguera-Jacobson,373.21
+1033,1,2026-01-09 00:00:00,Electronics,4,212.69,0.1,Completed,Great product and fast delivery,Leanne Graham,Gwenborough,Romaguera-Crona,765.68
+1034,6,2026-01-09 06:00:00,Electronics,2,277.49,0.0,Completed,"Exceeded expectations, highly recommend",Mrs. Dennis Schulist,South Christy,Considine-Lockman,554.98
+1035,9,2026-01-09 12:00:00,Apparel,1,443.32,0.1,Completed,Great product and fast delivery,Glenna Reichert,Bartholomebury,Yost and Sons,398.99
+1036,1,2026-01-09 18:00:00,Electronics,4,172.27,0.1,Cancelled,Great product and fast delivery,Leanne Graham,Gwenborough,Romaguera-Crona,620.17
+1037,9,2026-01-10 00:00:00,Apparel,5,368.72,0.05,Cancelled,Great product and fast delivery,Glenna Reichert,Bartholomebury,Yost and Sons,1751.42
+1038,9,2026-01-10 06:00:00,Electronics,1,153.5,0.1,Completed,Great product and fast delivery,Glenna Reichert,Bartholomebury,Yost and Sons,138.15
+1039,3,2026-01-10 12:00:00,Apparel,3,362.66,0.1,Completed,"Works as expected, good value",Clementine Bauch,McKenziehaven,Romaguera-Jacobson,979.18
+1040,7,2026-01-10 18:00:00,Electronics,5,276.32,0.1,Completed,"Exceeded expectations, highly recommend",Kurtis Weissnat,Howemouth,Johns Group,1243.44
+1041,2,2026-01-11 00:00:00,Home & Kitchen,4,109.11,0.05,Completed,"Terrible quality, requesting refund",Ervin Howell,Wisokyburgh,Deckow-Crist,414.62
+1042,8,2026-01-11 06:00:00,Electronics,5,195.1,0.1,Completed,"Works as expected, good value",Nicholas Runolfsdottir V,Aliyaview,Abernathy Group,877.95
+1043,8,2026-01-11 12:00:00,Electronics,3,153.17,0.1,Completed,Great product and fast delivery,Nicholas Runolfsdottir V,Aliyaview,Abernathy Group,413.56
+1044,4,2026-01-11 18:00:00,Electronics,2,48.98,0.05,Completed,"Terrible quality, requesting refund",Patricia Lebsack,South Elvis,Robel-Corkery,93.06
+1045,1,2026-01-12 00:00:00,Books,4,27.98,0.1,Completed,Great product and fast delivery,Leanne Graham,Gwenborough,Romaguera-Crona,100.73
+1046,10,2026-01-12 06:00:00,Electronics,1,165.72,0.05,Cancelled,"Terrible quality, requesting refund",Clementina DuBuque,Lebsackbury,Hoeger LLC,157.43
+1047,5,2026-01-12 12:00:00,Apparel,2,23.28,0.2,Returned,"Works as expected, good value",Chelsey Dietrich,Roscoeview,Keebler LLC,37.25
+1048,9,2026-01-12 18:00:00,Apparel,4,86.99,0.1,Returned,"Exceeded expectations, highly recommend",Glenna Reichert,Bartholomebury,Yost and Sons,313.16
+1049,7,2026-01-13 00:00:00,Apparel,4,330.45,0.1,Completed,"Item arrived damaged, poor packaging",Kurtis Weissnat,Howemouth,Johns Group,1189.62
+1050,8,2026-01-13 06:00:00,Home & Kitchen,1,323.02,0.0,Returned,"Terrible quality, requesting refund",Nicholas Runolfsdottir V,Aliyaview,Abernathy Group,323.02
+1051,8,2026-01-13 12:00:00,Books,3,336.28,0.2,Cancelled,"Works as expected, good value",Nicholas Runolfsdottir V,Aliyaview,Abernathy Group,807.07
+1052,2,2026-01-13 18:00:00,Electronics,2,152.96,0.05,Completed,"Works as expected, good value",Ervin Howell,Wisokyburgh,Deckow-Crist,290.62
+1053,4,2026-01-14 00:00:00,Books,3,402.16,0.05,Returned,"Exceeded expectations, highly recommend",Patricia Lebsack,South Elvis,Robel-Corkery,1146.16
+1054,5,2026-01-14 06:00:00,Electronics,5,273.32,0.0,Completed,"Terrible quality, requesting refund",Chelsey Dietrich,Roscoeview,Keebler LLC,1366.6
+1055,5,2026-01-14 12:00:00,Books,1,69.82,0.1,Returned,"Works as expected, good value",Chelsey Dietrich,Roscoeview,Keebler LLC,62.84
+1056,1,2026-01-14 18:00:00,Apparel,5,77.52,0.0,Completed,"Works as expected, good value",Leanne Graham,Gwenborough,Romaguera-Crona,387.6
+1057,6,2026-01-15 00:00:00,Home & Kitchen,3,316.5,0.2,Cancelled,"Terrible quality, requesting refund",Mrs. Dennis Schulist,South Christy,Considine-Lockman,759.6
+1058,2,2026-01-15 06:00:00,Books,4,90.23,0.1,Completed,"Item arrived damaged, poor packaging",Ervin Howell,Wisokyburgh,Deckow-Crist,324.83
+1059,8,2026-01-15 12:00:00,Home & Kitchen,3,235.67,0.0,Completed,Great product and fast delivery,Nicholas Runolfsdottir V,Aliyaview,Abernathy Group,707.01
+1060,7,2026-01-15 18:00:00,Books,2,446.42,0.1,Completed,"Works as expected, good value",Kurtis Weissnat,Howemouth,Johns Group,803.56
+1061,10,2026-01-16 00:00:00,Apparel,4,16.74,0.1,Completed,Great product and fast delivery,Clementina DuBuque,Lebsackbury,Hoeger LLC,60.26
+1062,8,2026-01-16 06:00:00,Electronics,4,22.21,0.05,Completed,Great product and fast delivery,Nicholas Runolfsdottir V,Aliyaview,Abernathy Group,84.4
+1063,4,2026-01-16 12:00:00,Apparel,1,446.99,0.2,Completed,"Works as expected, good value",Patricia Lebsack,South Elvis,Robel-Corkery,357.59
+1064,10,2026-01-16 18:00:00,Electronics,4,269.32,0.1,Completed,"Terrible quality, requesting refund",Clementina DuBuque,Lebsackbury,Hoeger LLC,969.55
+1065,5,2026-01-17 00:00:00,Books,4,70.21,0.1,Returned,"Terrible quality, requesting refund",Chelsey Dietrich,Roscoeview,Keebler LLC,252.76
+1066,4,2026-01-17 06:00:00,Electronics,2,405.33,0.1,Completed,"Item arrived damaged, poor packaging",Patricia Lebsack,South Elvis,Robel-Corkery,729.59
+1067,10,2026-01-17 12:00:00,Electronics,5,397.97,0.1,Cancelled,"Works as expected, good value",Clementina DuBuque,Lebsackbury,Hoeger LLC,1790.87
+1068,4,2026-01-17 18:00:00,Electronics,4,248.25,0.2,Returned,Great product and fast delivery,Patricia Lebsack,South Elvis,Robel-Corkery,794.4
+1069,1,2026-01-18 00:00:00,Home & Kitchen,2,285.48,0.05,Completed,"Terrible quality, requesting refund",Leanne Graham,Gwenborough,Romaguera-Crona,542.41
+1070,5,2026-01-18 06:00:00,Apparel,1,133.84,0.1,Completed,"Item arrived damaged, poor packaging",Chelsey Dietrich,Roscoeview,Keebler LLC,120.46
+1071,8,2026-01-18 12:00:00,Books,4,36.98,0.1,Completed,"Terrible quality, requesting refund",Nicholas Runolfsdottir V,Aliyaview,Abernathy Group,133.13
+1072,2,2026-01-18 18:00:00,Apparel,2,273.64,0.1,Completed,"Exceeded expectations, highly recommend",Ervin Howell,Wisokyburgh,Deckow-Crist,492.55
+1073,5,2026-01-19 00:00:00,Electronics,4,143.22,0.2,Completed,"Terrible quality, requesting refund",Chelsey Dietrich,Roscoeview,Keebler LLC,458.3
+1074,2,2026-01-19 06:00:00,Electronics,3,303.68,0.05,Returned,"Item arrived damaged, poor packaging",Ervin Howell,Wisokyburgh,Deckow-Crist,865.49
+1075,7,2026-01-19 12:00:00,Electronics,3,378.77,0.2,Completed,"Exceeded expectations, highly recommend",Kurtis Weissnat,Howemouth,Johns Group,909.05
+1076,5,2026-01-19 18:00:00,Electronics,1,22.9,0.05,Returned,"Terrible quality, requesting refund",Chelsey Dietrich,Roscoeview,Keebler LLC,21.76
+1077,4,2026-01-20 00:00:00,Books,4,274.14,0.05,Completed,"Terrible quality, requesting refund",Patricia Lebsack,South Elvis,Robel-Corkery,1041.73
+1078,3,2026-01-20 06:00:00,Apparel,1,115.61,0.1,Cancelled,"Exceeded expectations, highly recommend",Clementine Bauch,McKenziehaven,Romaguera-Jacobson,104.05
+1079,6,2026-01-20 12:00:00,Books,3,395.14,0.1,Completed,"Exceeded expectations, highly recommend",Mrs. Dennis Schulist,South Christy,Considine-Lockman,1066.88
+1080,7,2026-01-20 18:00:00,Electronics,5,125.34,0.1,Completed,Great product and fast delivery,Kurtis Weissnat,Howemouth,Johns Group,564.03
+1081,10,2026-01-21 00:00:00,Electronics,5,280.69,0.05,Completed,"Exceeded expectations, highly recommend",Clementina DuBuque,Lebsackbury,Hoeger LLC,1333.28
+1082,5,2026-01-21 06:00:00,Books,5,255.79,0.1,Cancelled,"Terrible quality, requesting refund",Chelsey Dietrich,Roscoeview,Keebler LLC,1151.06
+1083,2,2026-01-21 12:00:00,Electronics,5,187.33,0.05,Completed,"Item arrived damaged, poor packaging",Ervin Howell,Wisokyburgh,Deckow-Crist,889.82
+1084,9,2026-01-21 18:00:00,Electronics,3,309.77,0.2,Completed,"Item arrived damaged, poor packaging",Glenna Reichert,Bartholomebury,Yost and Sons,743.45
+1085,7,2026-01-22 00:00:00,Apparel,2,330.71,0.05,Completed,"Terrible quality, requesting refund",Kurtis Weissnat,Howemouth,Johns Group,628.35
+1086,8,2026-01-22 06:00:00,Books,5,261.62,0.1,Completed,"Item arrived damaged, poor packaging",Nicholas Runolfsdottir V,Aliyaview,Abernathy Group,1177.29
+1087,1,2026-01-22 12:00:00,Home & Kitchen,5,344.91,0.05,Completed,"Works as expected, good value",Leanne Graham,Gwenborough,Romaguera-Crona,1638.32
+1088,4,2026-01-22 18:00:00,Electronics,5,442.79,0.05,Completed,"Terrible quality, requesting refund",Patricia Lebsack,South Elvis,Robel-Corkery,2103.25
+1089,8,2026-01-23 00:00:00,Books,4,197.38,0.1,Completed,"Terrible quality, requesting refund",Nicholas Runolfsdottir V,Aliyaview,Abernathy Group,710.57
+1090,9,2026-01-23 06:00:00,Books,1,238.84,0.05,Completed,"Exceeded expectations, highly recommend",Glenna Reichert,Bartholomebury,Yost and Sons,226.9
+1091,5,2026-01-23 12:00:00,Books,3,20.42,0.0,Completed,Great product and fast delivery,Chelsey Dietrich,Roscoeview,Keebler LLC,61.26
+1092,9,2026-01-23 18:00:00,Books,3,361.27,0.05,Completed,"Item arrived damaged, poor packaging",Glenna Reichert,Bartholomebury,Yost and Sons,1029.62
+1093,9,2026-01-24 00:00:00,Electronics,5,241.3,0.1,Returned,"Exceeded expectations, highly recommend",Glenna Reichert,Bartholomebury,Yost and Sons,1085.85
+1094,4,2026-01-24 06:00:00,Books,2,192.46,0.0,Completed,"Works as expected, good value",Patricia Lebsack,South Elvis,Robel-Corkery,384.92
+1095,9,2026-01-24 12:00:00,Electronics,2,55.92,0.05,Cancelled,"Item arrived damaged, poor packaging",Glenna Reichert,Bartholomebury,Yost and Sons,106.25
+1096,3,2026-01-24 18:00:00,Books,1,402.0,0.0,Returned,"Item arrived damaged, poor packaging",Clementine Bauch,McKenziehaven,Romaguera-Jacobson,402.0
+1097,3,2026-01-25 00:00:00,Apparel,5,186.83,0.1,Completed,"Item arrived damaged, poor packaging",Clementine Bauch,McKenziehaven,Romaguera-Jacobson,840.74
+1098,7,2026-01-25 06:00:00,Home & Kitchen,4,311.92,0.2,Completed,"Works as expected, good value",Kurtis Weissnat,Howemouth,Johns Group,998.14
+1099,7,2026-01-25 12:00:00,Home & Kitchen,1,79.98,0.1,Completed,"Item arrived damaged, poor packaging",Kurtis Weissnat,Howemouth,Johns Group,71.98
+1100,2,2026-01-25 18:00:00,Home & Kitchen,3,433.27,0.05,Completed,"Terrible quality, requesting refund",Ervin Howell,Wisokyburgh,Deckow-Crist,1234.82
+1101,9,2026-01-26 00:00:00,Home & Kitchen,3,92.62,0.1,Completed,"Works as expected, good value",Glenna Reichert,Bartholomebury,Yost and Sons,250.07
+1102,2,2026-01-26 06:00:00,Home & Kitchen,3,101.8,0.05,Completed,"Terrible quality, requesting refund",Ervin Howell,Wisokyburgh,Deckow-Crist,290.13
+1103,9,2026-01-26 12:00:00,Home & Kitchen,5,388.66,0.2,Completed,Great product and fast delivery,Glenna Reichert,Bartholomebury,Yost and Sons,1554.64
+1104,1,2026-01-26 18:00:00,Electronics,1,411.97,0.1,Completed,"Terrible quality, requesting refund",Leanne Graham,Gwenborough,Romaguera-Crona,370.77
+1105,8,2026-01-27 00:00:00,Books,2,107.28,0.2,Returned,"Exceeded expectations, highly recommend",Nicholas Runolfsdottir V,Aliyaview,Abernathy Group,171.65
+1106,8,2026-01-27 06:00:00,Apparel,1,219.36,0.2,Completed,Great product and fast delivery,Nicholas Runolfsdottir V,Aliyaview,Abernathy Group,175.49
+1107,8,2026-01-27 12:00:00,Electronics,2,334.07,0.1,Cancelled,"Item arrived damaged, poor packaging",Nicholas Runolfsdottir V,Aliyaview,Abernathy Group,601.33
+1108,7,2026-01-27 18:00:00,Apparel,5,397.09,0.05,Completed,"Terrible quality, requesting refund",Kurtis Weissnat,Howemouth,Johns Group,1886.18
+1109,5,2026-01-28 00:00:00,Books,5,179.89,0.1,Cancelled,"Terrible quality, requesting refund",Chelsey Dietrich,Roscoeview,Keebler LLC,809.5
+1110,8,2026-01-28 06:00:00,Books,1,239.9,0.1,Completed,"Terrible quality, requesting refund",Nicholas Runolfsdottir V,Aliyaview,Abernathy Group,215.91
+1111,3,2026-01-28 12:00:00,Books,4,337.65,0.1,Completed,"Works as expected, good value",Clementine Bauch,McKenziehaven,Romaguera-Jacobson,1215.54
+1112,8,2026-01-28 18:00:00,Apparel,2,333.04,0.1,Returned,"Terrible quality, requesting refund",Nicholas Runolfsdottir V,Aliyaview,Abernathy Group,599.47
+1113,6,2026-01-29 00:00:00,Home & Kitchen,1,355.59,0.0,Completed,"Terrible quality, requesting refund",Mrs. Dennis Schulist,South Christy,Considine-Lockman,355.59
+1114,5,2026-01-29 06:00:00,Electronics,2,262.92,0.1,Cancelled,Great product and fast delivery,Chelsey Dietrich,Roscoeview,Keebler LLC,473.26
+1115,6,2026-01-29 12:00:00,Home & Kitchen,1,60.51,0.0,Completed,"Terrible quality, requesting refund",Mrs. Dennis Schulist,South Christy,Considine-Lockman,60.51
+1116,6,2026-01-29 18:00:00,Home & Kitchen,3,408.23,0.2,Completed,"Works as expected, good value",Mrs. Dennis Schulist,South Christy,Considine-Lockman,979.75
+1117,1,2026-01-30 00:00:00,Electronics,5,391.52,0.1,Returned,Great product and fast delivery,Leanne Graham,Gwenborough,Romaguera-Crona,1761.84
+1118,2,2026-01-30 06:00:00,Electronics,3,362.17,0.0,Returned,"Works as expected, good value",Ervin Howell,Wisokyburgh,Deckow-Crist,1086.51
+1119,3,2026-01-30 12:00:00,Electronics,4,58.44,0.2,Completed,"Works as expected, good value",Clementine Bauch,McKenziehaven,Romaguera-Jacobson,187.01
+1120,2,2026-01-30 18:00:00,Electronics,3,103.91,0.1,Cancelled,Great product and fast delivery,Ervin Howell,Wisokyburgh,Deckow-Crist,280.56
+1121,5,2026-01-31 00:00:00,Apparel,1,338.47,0.1,Returned,"Exceeded expectations, highly recommend",Chelsey Dietrich,Roscoeview,Keebler LLC,304.62
+1122,7,2026-01-31 06:00:00,Apparel,1,25.07,0.05,Cancelled,"Item arrived damaged, poor packaging",Kurtis Weissnat,Howemouth,Johns Group,23.82
+1123,7,2026-01-31 12:00:00,Electronics,2,440.96,0.0,Completed,"Item arrived damaged, poor packaging",Kurtis Weissnat,Howemouth,Johns Group,881.92
+1124,5,2026-01-31 18:00:00,Apparel,2,179.06,0.1,Returned,"Works as expected, good value",Chelsey Dietrich,Roscoeview,Keebler LLC,322.31
+1125,9,2026-02-01 00:00:00,Home & Kitchen,5,327.9,0.1,Completed,"Exceeded expectations, highly recommend",Glenna Reichert,Bartholomebury,Yost and Sons,1475.55
+1126,6,2026-02-01 06:00:00,Electronics,5,401.09,0.1,Cancelled,"Terrible quality, requesting refund",Mrs. Dennis Schulist,South Christy,Considine-Lockman,1804.9
+1127,1,2026-02-01 12:00:00,Electronics,5,186.66,0.1,Cancelled,"Terrible quality, requesting refund",Leanne Graham,Gwenborough,Romaguera-Crona,839.97
+1128,8,2026-02-01 18:00:00,Electronics,4,153.82,0.0,Cancelled,"Item arrived damaged, poor packaging",Nicholas Runolfsdottir V,Aliyaview,Abernathy Group,615.28
+1129,6,2026-02-02 00:00:00,Apparel,3,279.8,0.2,Completed,"Exceeded expectations, highly recommend",Mrs. Dennis Schulist,South Christy,Considine-Lockman,671.52
+1130,7,2026-02-02 06:00:00,Electronics,4,267.73,0.0,Returned,"Exceeded expectations, highly recommend",Kurtis Weissnat,Howemouth,Johns Group,1070.92
+1131,6,2026-02-02 12:00:00,Home & Kitchen,3,192.98,0.1,Completed,"Works as expected, good value",Mrs. Dennis Schulist,South Christy,Considine-Lockman,521.05
+1132,6,2026-02-02 18:00:00,Electronics,4,276.77,0.2,Completed,"Works as expected, good value",Mrs. Dennis Schulist,South Christy,Considine-Lockman,885.66
+1133,1,2026-02-03 00:00:00,Apparel,4,421.89,0.1,Returned,Great product and fast delivery,Leanne Graham,Gwenborough,Romaguera-Crona,1518.8
+1134,6,2026-02-03 06:00:00,Electronics,4,218.42,0.1,Completed,"Terrible quality, requesting refund",Mrs. Dennis Schulist,South Christy,Considine-Lockman,786.31
+1135,8,2026-02-03 12:00:00,Electronics,4,100.58,0.0,Returned,"Exceeded expectations, highly recommend",Nicholas Runolfsdottir V,Aliyaview,Abernathy Group,402.32
+1136,4,2026-02-03 18:00:00,Home & Kitchen,1,179.08,0.0,Completed,"Works as expected, good value",Patricia Lebsack,South Elvis,Robel-Corkery,179.08
+1137,7,2026-02-04 00:00:00,Electronics,4,186.44,0.05,Completed,"Works as expected, good value",Kurtis Weissnat,Howemouth,Johns Group,708.47
+1138,1,2026-02-04 06:00:00,Electronics,2,72.03,0.2,Completed,"Works as expected, good value",Leanne Graham,Gwenborough,Romaguera-Crona,115.25
+1139,4,2026-02-04 12:00:00,Home & Kitchen,4,85.85,0.0,Completed,Great product and fast delivery,Patricia Lebsack,South Elvis,Robel-Corkery,343.4
+1140,5,2026-02-04 18:00:00,Books,3,312.78,0.1,Completed,"Terrible quality, requesting refund",Chelsey Dietrich,Roscoeview,Keebler LLC,844.51
+1141,10,2026-02-05 00:00:00,Home & Kitchen,5,162.67,0.05,Completed,"Terrible quality, requesting refund",Clementina DuBuque,Lebsackbury,Hoeger LLC,772.68
+1142,3,2026-02-05 06:00:00,Books,2,430.38,0.1,Completed,"Exceeded expectations, highly recommend",Clementine Bauch,McKenziehaven,Romaguera-Jacobson,774.68
+1143,3,2026-02-05 12:00:00,Books,5,120.96,0.05,Completed,"Exceeded expectations, highly recommend",Clementine Bauch,McKenziehaven,Romaguera-Jacobson,574.56
+1144,5,2026-02-05 18:00:00,Apparel,5,58.03,0.1,Completed,"Works as expected, good value",Chelsey Dietrich,Roscoeview,Keebler LLC,261.14
+1145,10,2026-02-06 00:00:00,Home & Kitchen,2,342.77,0.1,Returned,"Exceeded expectations, highly recommend",Clementina DuBuque,Lebsackbury,Hoeger LLC,616.99
+1146,9,2026-02-06 06:00:00,Electronics,3,398.25,0.0,Completed,"Works as expected, good value",Glenna Reichert,Bartholomebury,Yost and Sons,1194.75
+1147,1,2026-02-06 12:00:00,Apparel,3,135.98,0.1,Returned,"Terrible quality, requesting refund",Leanne Graham,Gwenborough,Romaguera-Crona,367.15
+1148,3,2026-02-06 18:00:00,Apparel,4,102.91,0.2,Cancelled,"Terrible quality, requesting refund",Clementine Bauch,McKenziehaven,Romaguera-Jacobson,329.31
+1149,9,2026-02-07 00:00:00,Books,4,95.81,0.1,Cancelled,"Exceeded expectations, highly recommend",Glenna Reichert,Bartholomebury,Yost and Sons,344.92
+1150,1,2026-02-07 06:00:00,Books,5,242.08,0.05,Completed,"Terrible quality, requesting refund",Leanne Graham,Gwenborough,Romaguera-Crona,1149.88
+1151,9,2026-02-07 12:00:00,Apparel,2,218.76,0.1,Returned,Great product and fast delivery,Glenna Reichert,Bartholomebury,Yost and Sons,393.77
+1152,3,2026-02-07 18:00:00,Home & Kitchen,3,127.86,0.1,Completed,Great product and fast delivery,Clementine Bauch,McKenziehaven,Romaguera-Jacobson,345.22
+1153,10,2026-02-08 00:00:00,Electronics,3,34.65,0.1,Completed,"Works as expected, good value",Clementina DuBuque,Lebsackbury,Hoeger LLC,93.56
+1154,3,2026-02-08 06:00:00,Books,5,224.45,0.05,Returned,"Works as expected, good value",Clementine Bauch,McKenziehaven,Romaguera-Jacobson,1066.14
+1155,5,2026-02-08 12:00:00,Apparel,2,432.31,0.1,Completed,"Terrible quality, requesting refund",Chelsey Dietrich,Roscoeview,Keebler LLC,778.16
+1156,7,2026-02-08 18:00:00,Apparel,3,298.85,0.1,Cancelled,"Works as expected, good value",Kurtis Weissnat,Howemouth,Johns Group,806.9
+1157,2,2026-02-09 00:00:00,Home & Kitchen,1,230.55,0.0,Returned,"Works as expected, good value",Ervin Howell,Wisokyburgh,Deckow-Crist,230.55
+1158,6,2026-02-09 06:00:00,Home & Kitchen,5,63.15,0.05,Cancelled,"Exceeded expectations, highly recommend",Mrs. Dennis Schulist,South Christy,Considine-Lockman,299.96
+1159,6,2026-02-09 12:00:00,Electronics,2,124.81,0.2,Returned,"Item arrived damaged, poor packaging",Mrs. Dennis Schulist,South Christy,Considine-Lockman,199.7
+1160,8,2026-02-09 18:00:00,Electronics,2,143.23,0.0,Cancelled,"Works as expected, good value",Nicholas Runolfsdottir V,Aliyaview,Abernathy Group,286.46
+1161,10,2026-02-10 00:00:00,Electronics,3,347.69,0.1,Completed,"Works as expected, good value",Clementina DuBuque,Lebsackbury,Hoeger LLC,938.76
+1162,7,2026-02-10 06:00:00,Home & Kitchen,3,396.37,0.2,Cancelled,"Works as expected, good value",Kurtis Weissnat,Howemouth,Johns Group,951.29
+1163,5,2026-02-10 12:00:00,Electronics,5,407.21,0.0,Completed,"Exceeded expectations, highly recommend",Chelsey Dietrich,Roscoeview,Keebler LLC,2036.05
+1164,5,2026-02-10 18:00:00,Electronics,3,443.29,0.1,Completed,"Exceeded expectations, highly recommend",Chelsey Dietrich,Roscoeview,Keebler LLC,1196.88
+1165,5,2026-02-11 00:00:00,Apparel,3,442.33,0.05,Completed,"Works as expected, good value",Chelsey Dietrich,Roscoeview,Keebler LLC,1260.64
+1166,9,2026-02-11 06:00:00,Home & Kitchen,1,429.55,0.1,Completed,"Works as expected, good value",Glenna Reichert,Bartholomebury,Yost and Sons,386.6
+1167,4,2026-02-11 12:00:00,Apparel,1,46.24,0.05,Returned,"Works as expected, good value",Patricia Lebsack,South Elvis,Robel-Corkery,43.93
+1168,2,2026-02-11 18:00:00,Books,2,74.94,0.1,Completed,Great product and fast delivery,Ervin Howell,Wisokyburgh,Deckow-Crist,134.89
+1169,4,2026-02-12 00:00:00,Books,5,147.44,0.0,Cancelled,"Works as expected, good value",Patricia Lebsack,South Elvis,Robel-Corkery,737.2
+1170,1,2026-02-12 06:00:00,Electronics,5,255.51,0.1,Returned,"Item arrived damaged, poor packaging",Leanne Graham,Gwenborough,Romaguera-Crona,1149.8
+1171,2,2026-02-12 12:00:00,Books,4,57.19,0.2,Returned,Great product and fast delivery,Ervin Howell,Wisokyburgh,Deckow-Crist,183.01
+1172,1,2026-02-12 18:00:00,Home & Kitchen,4,382.92,0.1,Cancelled,Great product and fast delivery,Leanne Graham,Gwenborough,Romaguera-Crona,1378.51
+1173,8,2026-02-13 00:00:00,Home & Kitchen,2,283.29,0.1,Completed,"Works as expected, good value",Nicholas Runolfsdottir V,Aliyaview,Abernathy Group,509.92
+1174,8,2026-02-13 06:00:00,Electronics,1,250.93,0.0,Completed,Great product and fast delivery,Nicholas Runolfsdottir V,Aliyaview,Abernathy Group,250.93
+1175,7,2026-02-13 12:00:00,Home & Kitchen,1,86.91,0.1,Cancelled,"Terrible quality, requesting refund",Kurtis Weissnat,Howemouth,Johns Group,78.22
+1176,5,2026-02-13 18:00:00,Home & Kitchen,2,125.17,0.1,Completed,"Works as expected, good value",Chelsey Dietrich,Roscoeview,Keebler LLC,225.31
+1177,8,2026-02-14 00:00:00,Apparel,2,84.74,0.1,Returned,"Item arrived damaged, poor packaging",Nicholas Runolfsdottir V,Aliyaview,Abernathy Group,152.53
+1178,2,2026-02-14 06:00:00,Electronics,1,385.59,0.1,Completed,"Terrible quality, requesting refund",Ervin Howell,Wisokyburgh,Deckow-Crist,347.03
+1179,10,2026-02-14 12:00:00,Apparel,2,269.14,0.1,Completed,"Works as expected, good value",Clementina DuBuque,Lebsackbury,Hoeger LLC,484.45
+1180,6,2026-02-14 18:00:00,Books,1,334.78,0.05,Completed,"Terrible quality, requesting refund",Mrs. Dennis Schulist,South Christy,Considine-Lockman,318.04
+1181,10,2026-02-15 00:00:00,Home & Kitchen,4,143.77,0.0,Completed,"Terrible quality, requesting refund",Clementina DuBuque,Lebsackbury,Hoeger LLC,575.08
+1182,2,2026-02-15 06:00:00,Electronics,5,176.49,0.0,Completed,Great product and fast delivery,Ervin Howell,Wisokyburgh,Deckow-Crist,882.45
+1183,5,2026-02-15 12:00:00,Books,4,191.11,0.05,Returned,"Item arrived damaged, poor packaging",Chelsey Dietrich,Roscoeview,Keebler LLC,726.22
+1184,7,2026-02-15 18:00:00,Books,3,345.61,0.1,Completed,"Works as expected, good value",Kurtis Weissnat,Howemouth,Johns Group,933.15
+1185,5,2026-02-16 00:00:00,Electronics,3,350.97,0.1,Returned,"Exceeded expectations, highly recommend",Chelsey Dietrich,Roscoeview,Keebler LLC,947.62
+1186,5,2026-02-16 06:00:00,Books,2,104.96,0.1,Cancelled,Great product and fast delivery,Chelsey Dietrich,Roscoeview,Keebler LLC,188.93
+1187,2,2026-02-16 12:00:00,Apparel,1,424.57,0.05,Returned,Great product and fast delivery,Ervin Howell,Wisokyburgh,Deckow-Crist,403.34
+1188,4,2026-02-16 18:00:00,Apparel,3,67.49,0.1,Completed,"Exceeded expectations, highly recommend",Patricia Lebsack,South Elvis,Robel-Corkery,182.22
+1189,3,2026-02-17 00:00:00,Apparel,3,404.81,0.2,Completed,"Exceeded expectations, highly recommend",Clementine Bauch,McKenziehaven,Romaguera-Jacobson,971.54
+1190,4,2026-02-17 06:00:00,Home & Kitchen,1,58.67,0.1,Cancelled,Great product and fast delivery,Patricia Lebsack,South Elvis,Robel-Corkery,52.8
+1191,7,2026-02-17 12:00:00,Books,3,130.07,0.2,Completed,"Works as expected, good value",Kurtis Weissnat,Howemouth,Johns Group,312.17
+1192,7,2026-02-17 18:00:00,Home & Kitchen,2,383.22,0.2,Returned,"Terrible quality, requesting refund",Kurtis Weissnat,Howemouth,Johns Group,613.15
+1193,7,2026-02-18 00:00:00,Books,1,93.08,0.1,Returned,Great product and fast delivery,Kurtis Weissnat,Howemouth,Johns Group,83.77
+1194,4,2026-02-18 06:00:00,Books,4,194.9,0.1,Completed,"Item arrived damaged, poor packaging",Patricia Lebsack,South Elvis,Robel-Corkery,701.64
+1195,10,2026-02-18 12:00:00,Electronics,3,210.69,0.1,Returned,"Item arrived damaged, poor packaging",Clementina DuBuque,Lebsackbury,Hoeger LLC,568.86
+1196,1,2026-02-18 18:00:00,Electronics,4,121.69,0.05,Completed,"Terrible quality, requesting refund",Leanne Graham,Gwenborough,Romaguera-Crona,462.42
+1197,4,2026-02-19 00:00:00,Home & Kitchen,4,323.96,0.0,Completed,"Item arrived damaged, poor packaging",Patricia Lebsack,South Elvis,Robel-Corkery,1295.84
+1198,2,2026-02-19 06:00:00,Apparel,5,385.33,0.1,Cancelled,"Works as expected, good value",Ervin Howell,Wisokyburgh,Deckow-Crist,1733.98
+1199,4,2026-02-19 12:00:00,Electronics,5,395.44,0.0,Cancelled,"Item arrived damaged, poor packaging",Patricia Lebsack,South Elvis,Robel-Corkery,1977.2
+1200,10,2026-02-19 18:00:00,Electronics,4,162.61,0.0,Completed,"Terrible quality, requesting refund",Clementina DuBuque,Lebsackbury,Hoeger LLC,650.44
+1201,4,2026-02-20 00:00:00,Apparel,5,245.92,0.1,Cancelled,Great product and fast delivery,Patricia Lebsack,South Elvis,Robel-Corkery,1106.64
+1202,10,2026-02-20 06:00:00,Home & Kitchen,3,123.06,0.2,Cancelled,"Item arrived damaged, poor packaging",Clementina DuBuque,Lebsackbury,Hoeger LLC,295.34
+1203,5,2026-02-20 12:00:00,Electronics,5,121.49,0.05,Returned,"Item arrived damaged, poor packaging",Chelsey Dietrich,Roscoeview,Keebler LLC,577.08
+1204,7,2026-02-20 18:00:00,Electronics,4,85.15,0.1,Completed,"Exceeded expectations, highly recommend",Kurtis Weissnat,Howemouth,Johns Group,306.54
+1205,5,2026-02-21 00:00:00,Electronics,4,423.91,0.0,Completed,"Exceeded expectations, highly recommend",Chelsey Dietrich,Roscoeview,Keebler LLC,1695.64
+1206,3,2026-02-21 06:00:00,Apparel,5,401.28,0.05,Returned,"Works as expected, good value",Clementine Bauch,McKenziehaven,Romaguera-Jacobson,1906.08
+1207,8,2026-02-21 12:00:00,Electronics,3,353.15,0.2,Cancelled,Great product and fast delivery,Nicholas Runolfsdottir V,Aliyaview,Abernathy Group,847.56
+1208,10,2026-02-21 18:00:00,Apparel,4,240.18,0.05,Cancelled,"Terrible quality, requesting refund",Clementina DuBuque,Lebsackbury,Hoeger LLC,912.68
+1209,3,2026-02-22 00:00:00,Apparel,2,228.41,0.2,Completed,"Works as expected, good value",Clementine Bauch,McKenziehaven,Romaguera-Jacobson,365.46
+1210,8,2026-02-22 06:00:00,Apparel,5,245.44,0.1,Completed,"Exceeded expectations, highly recommend",Nicholas Runolfsdottir V,Aliyaview,Abernathy Group,1104.48
+1211,3,2026-02-22 12:00:00,Home & Kitchen,4,248.41,0.0,Cancelled,"Item arrived damaged, poor packaging",Clementine Bauch,McKenziehaven,Romaguera-Jacobson,993.64
+1212,8,2026-02-22 18:00:00,Apparel,4,204.03,0.0,Completed,"Exceeded expectations, highly recommend",Nicholas Runolfsdottir V,Aliyaview,Abernathy Group,816.12
+1213,8,2026-02-23 00:00:00,Home & Kitchen,3,72.31,0.1,Completed,"Exceeded expectations, highly recommend",Nicholas Runolfsdottir V,Aliyaview,Abernathy Group,195.24
+1214,5,2026-02-23 06:00:00,Home & Kitchen,5,69.66,0.1,Cancelled,"Item arrived damaged, poor packaging",Chelsey Dietrich,Roscoeview,Keebler LLC,313.47
+1215,8,2026-02-23 12:00:00,Books,1,429.23,0.1,Completed,"Terrible quality, requesting refund",Nicholas Runolfsdottir V,Aliyaview,Abernathy Group,386.31
+1216,3,2026-02-23 18:00:00,Home & Kitchen,1,224.68,0.1,Completed,"Item arrived damaged, poor packaging",Clementine Bauch,McKenziehaven,Romaguera-Jacobson,202.21
+1217,1,2026-02-24 00:00:00,Apparel,3,429.64,0.1,Completed,"Item arrived damaged, poor packaging",Leanne Graham,Gwenborough,Romaguera-Crona,1160.03
+1218,1,2026-02-24 06:00:00,Apparel,4,86.16,0.2,Completed,"Item arrived damaged, poor packaging",Leanne Graham,Gwenborough,Romaguera-Crona,275.71
+1219,5,2026-02-24 12:00:00,Electronics,5,256.17,0.1,Cancelled,"Terrible quality, requesting refund",Chelsey Dietrich,Roscoeview,Keebler LLC,1152.77
+1220,10,2026-02-24 18:00:00,Apparel,3,105.36,0.0,Completed,"Item arrived damaged, poor packaging",Clementina DuBuque,Lebsackbury,Hoeger LLC,316.08
+1221,2,2026-02-25 00:00:00,Electronics,4,125.14,0.2,Returned,"Terrible quality, requesting refund",Ervin Howell,Wisokyburgh,Deckow-Crist,400.45
+1222,5,2026-02-25 06:00:00,Books,3,28.07,0.2,Completed,"Works as expected, good value",Chelsey Dietrich,Roscoeview,Keebler LLC,67.37
+1223,8,2026-02-25 12:00:00,Books,5,66.74,0.0,Returned,"Terrible quality, requesting refund",Nicholas Runolfsdottir V,Aliyaview,Abernathy Group,333.7
+1224,3,2026-02-25 18:00:00,Electronics,4,413.83,0.05,Returned,"Exceeded expectations, highly recommend",Clementine Bauch,McKenziehaven,Romaguera-Jacobson,1572.55
+1225,8,2026-02-26 00:00:00,Home & Kitchen,3,154.87,0.2,Returned,Great product and fast delivery,Nicholas Runolfsdottir V,Aliyaview,Abernathy Group,371.69
+1226,4,2026-02-26 06:00:00,Electronics,5,279.54,0.2,Returned,"Exceeded expectations, highly recommend",Patricia Lebsack,South Elvis,Robel-Corkery,1118.16
+1227,9,2026-02-26 12:00:00,Home & Kitchen,1,217.28,0.0,Completed,Great product and fast delivery,Glenna Reichert,Bartholomebury,Yost and Sons,217.28
+1228,6,2026-02-26 18:00:00,Electronics,5,189.2,0.0,Completed,"Works as expected, good value",Mrs. Dennis Schulist,South Christy,Considine-Lockman,946.0
+1229,6,2026-02-27 00:00:00,Apparel,1,246.37,0.1,Returned,"Item arrived damaged, poor packaging",Mrs. Dennis Schulist,South Christy,Considine-Lockman,221.73
+1230,2,2026-02-27 06:00:00,Home & Kitchen,2,96.45,0.1,Cancelled,"Terrible quality, requesting refund",Ervin Howell,Wisokyburgh,Deckow-Crist,173.61
+1231,5,2026-02-27 12:00:00,Home & Kitchen,5,445.04,0.1,Cancelled,"Terrible quality, requesting refund",Chelsey Dietrich,Roscoeview,Keebler LLC,2002.68
+1232,9,2026-02-27 18:00:00,Apparel,4,370.96,0.1,Completed,"Exceeded expectations, highly recommend",Glenna Reichert,Bartholomebury,Yost and Sons,1335.46
+1233,1,2026-02-28 00:00:00,Books,5,337.6,0.1,Returned,"Works as expected, good value",Leanne Graham,Gwenborough,Romaguera-Crona,1519.2
+1234,8,2026-02-28 06:00:00,Home & Kitchen,4,218.91,0.05,Completed,"Exceeded expectations, highly recommend",Nicholas Runolfsdottir V,Aliyaview,Abernathy Group,831.86
+1235,5,2026-02-28 12:00:00,Electronics,4,81.5,0.1,Completed,"Item arrived damaged, poor packaging",Chelsey Dietrich,Roscoeview,Keebler LLC,293.4
+1236,8,2026-02-28 18:00:00,Home & Kitchen,2,415.49,0.0,Completed,"Item arrived damaged, poor packaging",Nicholas Runolfsdottir V,Aliyaview,Abernathy Group,830.98
+1237,7,2026-03-01 00:00:00,Home & Kitchen,1,163.5,0.1,Completed,"Item arrived damaged, poor packaging",Kurtis Weissnat,Howemouth,Johns Group,147.15
+1238,5,2026-03-01 06:00:00,Electronics,1,36.8,0.0,Cancelled,"Works as expected, good value",Chelsey Dietrich,Roscoeview,Keebler LLC,36.8
+1239,4,2026-03-01 12:00:00,Home & Kitchen,2,163.95,0.1,Cancelled,"Terrible quality, requesting refund",Patricia Lebsack,South Elvis,Robel-Corkery,295.11
+1240,7,2026-03-01 18:00:00,Books,1,360.59,0.05,Completed,"Exceeded expectations, highly recommend",Kurtis Weissnat,Howemouth,Johns Group,342.56
+1241,2,2026-03-02 00:00:00,Books,3,285.88,0.0,Completed,"Item arrived damaged, poor packaging",Ervin Howell,Wisokyburgh,Deckow-Crist,857.64
+1242,6,2026-03-02 06:00:00,Home & Kitchen,4,341.61,0.0,Completed,"Item arrived damaged, poor packaging",Mrs. Dennis Schulist,South Christy,Considine-Lockman,1366.44
+1243,1,2026-03-02 12:00:00,Home & Kitchen,5,360.23,0.1,Cancelled,"Exceeded expectations, highly recommend",Leanne Graham,Gwenborough,Romaguera-Crona,1621.04
+1244,7,2026-03-02 18:00:00,Electronics,3,107.2,0.1,Completed,"Works as expected, good value",Kurtis Weissnat,Howemouth,Johns Group,289.44
+1245,7,2026-03-03 00:00:00,Home & Kitchen,5,416.85,0.0,Returned,"Item arrived damaged, poor packaging",Kurtis Weissnat,Howemouth,Johns Group,2084.25
+1246,1,2026-03-03 06:00:00,Electronics,5,205.53,0.1,Cancelled,"Exceeded expectations, highly recommend",Leanne Graham,Gwenborough,Romaguera-Crona,924.89
+1247,8,2026-03-03 12:00:00,Apparel,5,292.97,0.05,Returned,"Works as expected, good value",Nicholas Runolfsdottir V,Aliyaview,Abernathy Group,1391.61
+1248,5,2026-03-03 18:00:00,Electronics,3,16.0,0.1,Completed,"Exceeded expectations, highly recommend",Chelsey Dietrich,Roscoeview,Keebler LLC,43.2
+1249,8,2026-03-04 00:00:00,Electronics,2,447.12,0.1,Completed,"Exceeded expectations, highly recommend",Nicholas Runolfsdottir V,Aliyaview,Abernathy Group,804.82
+1250,1,2026-03-04 06:00:00,Electronics,5,137.19,0.1,Completed,"Exceeded expectations, highly recommend",Leanne Graham,Gwenborough,Romaguera-Crona,617.36
+1251,2,2026-03-04 12:00:00,Books,2,42.0,0.05,Completed,"Works as expected, good value",Ervin Howell,Wisokyburgh,Deckow-Crist,79.8
+1252,5,2026-03-04 18:00:00,Electronics,3,214.34,0.0,Returned,"Terrible quality, requesting refund",Chelsey Dietrich,Roscoeview,Keebler LLC,643.02
+1253,2,2026-03-05 00:00:00,Electronics,1,71.13,0.1,Completed,"Exceeded expectations, highly recommend",Ervin Howell,Wisokyburgh,Deckow-Crist,64.02
+1254,4,2026-03-05 06:00:00,Books,4,81.26,0.2,Completed,"Item arrived damaged, poor packaging",Patricia Lebsack,South Elvis,Robel-Corkery,260.03
+1255,7,2026-03-05 12:00:00,Apparel,4,290.04,0.1,Completed,Great product and fast delivery,Kurtis Weissnat,Howemouth,Johns Group,1044.14
+1256,2,2026-03-05 18:00:00,Apparel,1,185.92,0.1,Completed,"Item arrived damaged, poor packaging",Ervin Howell,Wisokyburgh,Deckow-Crist,167.33
+1257,7,2026-03-06 00:00:00,Home & Kitchen,2,416.01,0.1,Completed,"Terrible quality, requesting refund",Kurtis Weissnat,Howemouth,Johns Group,748.82
+1258,2,2026-03-06 06:00:00,Electronics,3,153.83,0.2,Completed,"Works as expected, good value",Ervin Howell,Wisokyburgh,Deckow-Crist,369.19
+1259,2,2026-03-06 12:00:00,Electronics,3,330.89,0.05,Completed,Great product and fast delivery,Ervin Howell,Wisokyburgh,Deckow-Crist,943.04
+1260,6,2026-03-06 18:00:00,Home & Kitchen,5,215.58,0.1,Completed,"Works as expected, good value",Mrs. Dennis Schulist,South Christy,Considine-Lockman,970.11
+1261,8,2026-03-07 00:00:00,Electronics,2,302.08,0.0,Completed,Great product and fast delivery,Nicholas Runolfsdottir V,Aliyaview,Abernathy Group,604.16
+1262,2,2026-03-07 06:00:00,Apparel,5,275.87,0.1,Completed,"Works as expected, good value",Ervin Howell,Wisokyburgh,Deckow-Crist,1241.42
+1263,3,2026-03-07 12:00:00,Books,3,220.66,0.05,Returned,"Works as expected, good value",Clementine Bauch,McKenziehaven,Romaguera-Jacobson,628.88
+1264,10,2026-03-07 18:00:00,Books,5,428.28,0.0,Cancelled,"Terrible quality, requesting refund",Clementina DuBuque,Lebsackbury,Hoeger LLC,2141.4
+1265,10,2026-03-08 00:00:00,Electronics,2,164.08,0.05,Completed,"Works as expected, good value",Clementina DuBuque,Lebsackbury,Hoeger LLC,311.75
+1266,6,2026-03-08 06:00:00,Home & Kitchen,1,92.1,0.1,Returned,"Works as expected, good value",Mrs. Dennis Schulist,South Christy,Considine-Lockman,82.89
+1267,5,2026-03-08 12:00:00,Home & Kitchen,1,309.97,0.05,Returned,"Terrible quality, requesting refund",Chelsey Dietrich,Roscoeview,Keebler LLC,294.47
+1268,4,2026-03-08 18:00:00,Apparel,2,383.01,0.1,Returned,"Terrible quality, requesting refund",Patricia Lebsack,South Elvis,Robel-Corkery,689.42
+1269,7,2026-03-09 00:00:00,Electronics,5,32.51,0.1,Completed,"Exceeded expectations, highly recommend",Kurtis Weissnat,Howemouth,Johns Group,146.29
+1270,6,2026-03-09 06:00:00,Electronics,1,210.59,0.1,Cancelled,"Item arrived damaged, poor packaging",Mrs. Dennis Schulist,South Christy,Considine-Lockman,189.53
+1271,3,2026-03-09 12:00:00,Home & Kitchen,2,403.23,0.2,Completed,"Works as expected, good value",Clementine Bauch,McKenziehaven,Romaguera-Jacobson,645.17
+1272,1,2026-03-09 18:00:00,Books,1,341.08,0.0,Completed,"Item arrived damaged, poor packaging",Leanne Graham,Gwenborough,Romaguera-Crona,341.08
+1273,2,2026-03-10 00:00:00,Electronics,5,446.44,0.05,Returned,"Works as expected, good value",Ervin Howell,Wisokyburgh,Deckow-Crist,2120.59
+1274,10,2026-03-10 06:00:00,Home & Kitchen,4,246.17,0.2,Completed,Great product and fast delivery,Clementina DuBuque,Lebsackbury,Hoeger LLC,787.74
+1275,5,2026-03-10 12:00:00,Books,4,302.1,0.1,Completed,"Works as expected, good value",Chelsey Dietrich,Roscoeview,Keebler LLC,1087.56
+1276,5,2026-03-10 18:00:00,Books,4,146.58,0.05,Cancelled,Great product and fast delivery,Chelsey Dietrich,Roscoeview,Keebler LLC,557.0
+1277,5,2026-03-11 00:00:00,Apparel,4,427.18,0.1,Completed,"Works as expected, good value",Chelsey Dietrich,Roscoeview,Keebler LLC,1537.85
+1278,8,2026-03-11 06:00:00,Electronics,4,174.36,0.1,Completed,"Exceeded expectations, highly recommend",Nicholas Runolfsdottir V,Aliyaview,Abernathy Group,627.7
+1279,1,2026-03-11 12:00:00,Electronics,1,336.25,0.05,Cancelled,"Exceeded expectations, highly recommend",Leanne Graham,Gwenborough,Romaguera-Crona,319.44
+1280,1,2026-03-11 18:00:00,Books,5,190.37,0.0,Returned,"Works as expected, good value",Leanne Graham,Gwenborough,Romaguera-Crona,951.85
+1281,3,2026-03-12 00:00:00,Books,4,259.39,0.05,Completed,Great product and fast delivery,Clementine Bauch,McKenziehaven,Romaguera-Jacobson,985.68
+1282,5,2026-03-12 06:00:00,Home & Kitchen,4,328.11,0.1,Returned,"Item arrived damaged, poor packaging",Chelsey Dietrich,Roscoeview,Keebler LLC,1181.2
+1283,7,2026-03-12 12:00:00,Electronics,2,236.39,0.2,Cancelled,Great product and fast delivery,Kurtis Weissnat,Howemouth,Johns Group,378.22
+1284,5,2026-03-12 18:00:00,Electronics,5,409.58,0.1,Completed,"Terrible quality, requesting refund",Chelsey Dietrich,Roscoeview,Keebler LLC,1843.11
+1285,5,2026-03-13 00:00:00,Apparel,2,197.4,0.1,Completed,"Exceeded expectations, highly recommend",Chelsey Dietrich,Roscoeview,Keebler LLC,355.32
+1286,10,2026-03-13 06:00:00,Apparel,1,296.48,0.0,Completed,"Works as expected, good value",Clementina DuBuque,Lebsackbury,Hoeger LLC,296.48
+1287,2,2026-03-13 12:00:00,Electronics,5,163.93,0.05,Completed,Great product and fast delivery,Ervin Howell,Wisokyburgh,Deckow-Crist,778.67
+1288,6,2026-03-13 18:00:00,Home & Kitchen,2,192.55,0.0,Completed,Great product and fast delivery,Mrs. Dennis Schulist,South Christy,Considine-Lockman,385.1
+1289,6,2026-03-14 00:00:00,Apparel,1,206.42,0.0,Completed,"Exceeded expectations, highly recommend",Mrs. Dennis Schulist,South Christy,Considine-Lockman,206.42
+1290,5,2026-03-14 06:00:00,Electronics,4,69.73,0.1,Completed,"Item arrived damaged, poor packaging",Chelsey Dietrich,Roscoeview,Keebler LLC,251.03
+1291,9,2026-03-14 12:00:00,Electronics,2,54.9,0.1,Completed,Great product and fast delivery,Glenna Reichert,Bartholomebury,Yost and Sons,98.82
+1292,3,2026-03-14 18:00:00,Apparel,5,305.36,0.0,Completed,Great product and fast delivery,Clementine Bauch,McKenziehaven,Romaguera-Jacobson,1526.8
+1293,10,2026-03-15 00:00:00,Home & Kitchen,3,300.15,0.2,Completed,"Item arrived damaged, poor packaging",Clementina DuBuque,Lebsackbury,Hoeger LLC,720.36
+1294,4,2026-03-15 06:00:00,Books,1,303.37,0.1,Completed,"Terrible quality, requesting refund",Patricia Lebsack,South Elvis,Robel-Corkery,273.03
+1295,6,2026-03-15 12:00:00,Apparel,5,23.6,0.0,Completed,"Exceeded expectations, highly recommend",Mrs. Dennis Schulist,South Christy,Considine-Lockman,118.0
+1296,6,2026-03-15 18:00:00,Electronics,3,157.05,0.1,Returned,"Item arrived damaged, poor packaging",Mrs. Dennis Schulist,South Christy,Considine-Lockman,424.04
+1297,9,2026-03-16 00:00:00,Books,2,101.05,0.1,Completed,"Terrible quality, requesting refund",Glenna Reichert,Bartholomebury,Yost and Sons,181.89
+1298,5,2026-03-16 06:00:00,Apparel,4,353.5,0.1,Cancelled,Great product and fast delivery,Chelsey Dietrich,Roscoeview,Keebler LLC,1272.6
+1299,3,2026-03-16 12:00:00,Electronics,3,389.37,0.2,Completed,Great product and fast delivery,Clementine Bauch,McKenziehaven,Romaguera-Jacobson,934.49
+1300,1,2026-03-16 18:00:00,Apparel,1,122.31,0.05,Cancelled,Great product and fast delivery,Leanne Graham,Gwenborough,Romaguera-Crona,116.19
+1301,4,2026-03-17 00:00:00,Electronics,4,305.51,0.2,Returned,"Exceeded expectations, highly recommend",Patricia Lebsack,South Elvis,Robel-Corkery,977.63
+1302,9,2026-03-17 06:00:00,Electronics,3,71.27,0.1,Completed,"Works as expected, good value",Glenna Reichert,Bartholomebury,Yost and Sons,192.43
+1303,1,2026-03-17 12:00:00,Apparel,4,134.69,0.1,Returned,"Exceeded expectations, highly recommend",Leanne Graham,Gwenborough,Romaguera-Crona,484.88
+1304,9,2026-03-17 18:00:00,Books,5,75.31,0.0,Completed,Great product and fast delivery,Glenna Reichert,Bartholomebury,Yost and Sons,376.55
+1305,6,2026-03-18 00:00:00,Home & Kitchen,4,138.33,0.0,Completed,Great product and fast delivery,Mrs. Dennis Schulist,South Christy,Considine-Lockman,553.32
+1306,2,2026-03-18 06:00:00,Home & Kitchen,4,308.51,0.1,Completed,"Exceeded expectations, highly recommend",Ervin Howell,Wisokyburgh,Deckow-Crist,1110.64
+1307,4,2026-03-18 12:00:00,Apparel,2,410.99,0.05,Completed,Great product and fast delivery,Patricia Lebsack,South Elvis,Robel-Corkery,780.88
+1308,6,2026-03-18 18:00:00,Electronics,2,103.1,0.05,Completed,Great product and fast delivery,Mrs. Dennis Schulist,South Christy,Considine-Lockman,195.89
+1309,4,2026-03-19 00:00:00,Electronics,3,250.8,0.2,Completed,"Works as expected, good value",Patricia Lebsack,South Elvis,Robel-Corkery,601.92
+1310,2,2026-03-19 06:00:00,Books,5,320.11,0.0,Cancelled,"Terrible quality, requesting refund",Ervin Howell,Wisokyburgh,Deckow-Crist,1600.55
+1311,7,2026-03-19 12:00:00,Electronics,3,429.52,0.1,Completed,"Item arrived damaged, poor packaging",Kurtis Weissnat,Howemouth,Johns Group,1159.7
+1312,7,2026-03-19 18:00:00,Books,2,280.38,0.05,Completed,"Works as expected, good value",Kurtis Weissnat,Howemouth,Johns Group,532.72
+1313,2,2026-03-20 00:00:00,Home & Kitchen,4,125.97,0.0,Cancelled,"Terrible quality, requesting refund",Ervin Howell,Wisokyburgh,Deckow-Crist,503.88
+1314,3,2026-03-20 06:00:00,Electronics,5,287.08,0.1,Completed,"Works as expected, good value",Clementine Bauch,McKenziehaven,Romaguera-Jacobson,1291.86
+1315,3,2026-03-20 12:00:00,Home & Kitchen,5,154.41,0.0,Completed,"Item arrived damaged, poor packaging",Clementine Bauch,McKenziehaven,Romaguera-Jacobson,772.05
+1316,7,2026-03-20 18:00:00,Books,2,439.62,0.0,Cancelled,Great product and fast delivery,Kurtis Weissnat,Howemouth,Johns Group,879.24
+1317,8,2026-03-21 00:00:00,Electronics,4,188.86,0.2,Returned,"Works as expected, good value",Nicholas Runolfsdottir V,Aliyaview,Abernathy Group,604.35
+1318,8,2026-03-21 06:00:00,Electronics,3,313.16,0.1,Completed,"Exceeded expectations, highly recommend",Nicholas Runolfsdottir V,Aliyaview,Abernathy Group,845.53
+1319,10,2026-03-21 12:00:00,Home & Kitchen,3,25.1,0.0,Completed,"Terrible quality, requesting refund",Clementina DuBuque,Lebsackbury,Hoeger LLC,75.3
+1320,8,2026-03-21 18:00:00,Books,2,189.03,0.2,Completed,"Exceeded expectations, highly recommend",Nicholas Runolfsdottir V,Aliyaview,Abernathy Group,302.45
+1321,4,2026-03-22 00:00:00,Electronics,1,395.67,0.1,Completed,Great product and fast delivery,Patricia Lebsack,South Elvis,Robel-Corkery,356.1
+1322,2,2026-03-22 06:00:00,Home & Kitchen,2,280.45,0.1,Completed,Great product and fast delivery,Ervin Howell,Wisokyburgh,Deckow-Crist,504.81
+1323,7,2026-03-22 12:00:00,Electronics,3,208.12,0.0,Returned,"Works as expected, good value",Kurtis Weissnat,Howemouth,Johns Group,624.36
+1324,10,2026-03-22 18:00:00,Home & Kitchen,5,422.13,0.1,Returned,Great product and fast delivery,Clementina DuBuque,Lebsackbury,Hoeger LLC,1899.58
+1325,10,2026-03-23 00:00:00,Home & Kitchen,5,386.48,0.2,Completed,"Works as expected, good value",Clementina DuBuque,Lebsackbury,Hoeger LLC,1545.92
+1326,3,2026-03-23 06:00:00,Electronics,1,155.16,0.1,Returned,"Exceeded expectations, highly recommend",Clementine Bauch,McKenziehaven,Romaguera-Jacobson,139.64
+1327,3,2026-03-23 12:00:00,Home & Kitchen,4,251.88,0.05,Completed,"Item arrived damaged, poor packaging",Clementine Bauch,McKenziehaven,Romaguera-Jacobson,957.14
+1328,1,2026-03-23 18:00:00,Books,1,228.07,0.1,Completed,"Works as expected, good value",Leanne Graham,Gwenborough,Romaguera-Crona,205.26
+1329,2,2026-03-24 00:00:00,Books,4,290.01,0.2,Completed,"Terrible quality, requesting refund",Ervin Howell,Wisokyburgh,Deckow-Crist,928.03
+1330,6,2026-03-24 06:00:00,Electronics,2,160.34,0.0,Cancelled,Great product and fast delivery,Mrs. Dennis Schulist,South Christy,Considine-Lockman,320.68
+1331,6,2026-03-24 12:00:00,Electronics,3,121.23,0.1,Returned,"Exceeded expectations, highly recommend",Mrs. Dennis Schulist,South Christy,Considine-Lockman,327.32
+1332,4,2026-03-24 18:00:00,Electronics,4,412.01,0.2,Cancelled,"Item arrived damaged, poor packaging",Patricia Lebsack,South Elvis,Robel-Corkery,1318.43
+1333,4,2026-03-25 00:00:00,Apparel,3,416.89,0.05,Completed,"Exceeded expectations, highly recommend",Patricia Lebsack,South Elvis,Robel-Corkery,1188.14
+1334,9,2026-03-25 06:00:00,Electronics,5,381.85,0.1,Cancelled,"Terrible quality, requesting refund",Glenna Reichert,Bartholomebury,Yost and Sons,1718.32
+1335,5,2026-03-25 12:00:00,Books,3,440.52,0.05,Completed,Great product and fast delivery,Chelsey Dietrich,Roscoeview,Keebler LLC,1255.48
+1336,9,2026-03-25 18:00:00,Home & Kitchen,5,339.07,0.1,Completed,"Terrible quality, requesting refund",Glenna Reichert,Bartholomebury,Yost and Sons,1525.82
+1337,10,2026-03-26 00:00:00,Books,4,347.63,0.1,Completed,Great product and fast delivery,Clementina DuBuque,Lebsackbury,Hoeger LLC,1251.47
+1338,4,2026-03-26 06:00:00,Electronics,2,346.73,0.1,Completed,"Works as expected, good value",Patricia Lebsack,South Elvis,Robel-Corkery,624.11
+1339,3,2026-03-26 12:00:00,Electronics,4,224.06,0.05,Cancelled,"Exceeded expectations, highly recommend",Clementine Bauch,McKenziehaven,Romaguera-Jacobson,851.43
+1340,10,2026-03-26 18:00:00,Books,3,213.56,0.1,Cancelled,"Exceeded expectations, highly recommend",Clementina DuBuque,Lebsackbury,Hoeger LLC,576.61
+1341,7,2026-03-27 00:00:00,Electronics,3,119.5,0.1,Completed,"Exceeded expectations, highly recommend",Kurtis Weissnat,Howemouth,Johns Group,322.65
+1342,3,2026-03-27 06:00:00,Home & Kitchen,1,295.5,0.2,Completed,"Works as expected, good value",Clementine Bauch,McKenziehaven,Romaguera-Jacobson,236.4
+1343,7,2026-03-27 12:00:00,Books,1,140.85,0.2,Completed,"Works as expected, good value",Kurtis Weissnat,Howemouth,Johns Group,112.68
+1344,6,2026-03-27 18:00:00,Electronics,3,127.15,0.1,Returned,"Item arrived damaged, poor packaging",Mrs. Dennis Schulist,South Christy,Considine-Lockman,343.31
+1345,10,2026-03-28 00:00:00,Electronics,1,269.89,0.1,Completed,"Exceeded expectations, highly recommend",Clementina DuBuque,Lebsackbury,Hoeger LLC,242.9
+1346,3,2026-03-28 06:00:00,Electronics,5,193.34,0.1,Returned,"Works as expected, good value",Clementine Bauch,McKenziehaven,Romaguera-Jacobson,870.03
+1347,10,2026-03-28 12:00:00,Electronics,5,110.2,0.1,Returned,"Terrible quality, requesting refund",Clementina DuBuque,Lebsackbury,Hoeger LLC,495.9
+1348,10,2026-03-28 18:00:00,Electronics,4,369.98,0.05,Completed,"Item arrived damaged, poor packaging",Clementina DuBuque,Lebsackbury,Hoeger LLC,1405.92
+1349,2,2026-03-29 00:00:00,Books,4,389.35,0.05,Completed,"Terrible quality, requesting refund",Ervin Howell,Wisokyburgh,Deckow-Crist,1479.53
+1350,2,2026-03-29 06:00:00,Home & Kitchen,3,87.95,0.05,Returned,"Item arrived damaged, poor packaging",Ervin Howell,Wisokyburgh,Deckow-Crist,250.66
+1351,6,2026-03-29 12:00:00,Books,1,18.27,0.0,Completed,"Terrible quality, requesting refund",Mrs. Dennis Schulist,South Christy,Considine-Lockman,18.27
+1352,1,2026-03-29 18:00:00,Books,2,161.22,0.05,Cancelled,Great product and fast delivery,Leanne Graham,Gwenborough,Romaguera-Crona,306.32
+1353,3,2026-03-30 00:00:00,Books,3,361.92,0.0,Completed,Great product and fast delivery,Clementine Bauch,McKenziehaven,Romaguera-Jacobson,1085.76
+1354,5,2026-03-30 06:00:00,Electronics,5,380.04,0.0,Returned,"Item arrived damaged, poor packaging",Chelsey Dietrich,Roscoeview,Keebler LLC,1900.2
+1355,10,2026-03-30 12:00:00,Electronics,2,75.17,0.2,Cancelled,"Works as expected, good value",Clementina DuBuque,Lebsackbury,Hoeger LLC,120.27
+1356,10,2026-03-30 18:00:00,Books,3,351.84,0.0,Completed,"Terrible quality, requesting refund",Clementina DuBuque,Lebsackbury,Hoeger LLC,1055.52
+1357,2,2026-03-31 00:00:00,Electronics,2,65.33,0.1,Completed,"Item arrived damaged, poor packaging",Ervin Howell,Wisokyburgh,Deckow-Crist,117.59
+1358,9,2026-03-31 06:00:00,Electronics,1,184.68,0.2,Cancelled,Great product and fast delivery,Glenna Reichert,Bartholomebury,Yost and Sons,147.74
+1359,1,2026-03-31 12:00:00,Home & Kitchen,1,449.4,0.2,Completed,"Item arrived damaged, poor packaging",Leanne Graham,Gwenborough,Romaguera-Crona,359.52
+1360,8,2026-03-31 18:00:00,Books,2,98.78,0.1,Completed,"Works as expected, good value",Nicholas Runolfsdottir V,Aliyaview,Abernathy Group,177.8
+1361,9,2026-04-01 00:00:00,Books,1,81.97,0.0,Cancelled,"Works as expected, good value",Glenna Reichert,Bartholomebury,Yost and Sons,81.97
+1362,9,2026-04-01 06:00:00,Books,1,198.92,0.1,Returned,"Terrible quality, requesting refund",Glenna Reichert,Bartholomebury,Yost and Sons,179.03
+1363,3,2026-04-01 12:00:00,Electronics,2,284.56,0.1,Completed,"Item arrived damaged, poor packaging",Clementine Bauch,McKenziehaven,Romaguera-Jacobson,512.21
+1364,9,2026-04-01 18:00:00,Home & Kitchen,2,420.81,0.2,Cancelled,"Terrible quality, requesting refund",Glenna Reichert,Bartholomebury,Yost and Sons,673.3
+1365,2,2026-04-02 00:00:00,Books,3,441.66,0.0,Completed,"Terrible quality, requesting refund",Ervin Howell,Wisokyburgh,Deckow-Crist,1324.98
+1366,6,2026-04-02 06:00:00,Home & Kitchen,1,45.29,0.0,Returned,"Terrible quality, requesting refund",Mrs. Dennis Schulist,South Christy,Considine-Lockman,45.29
+1367,5,2026-04-02 12:00:00,Books,2,75.03,0.05,Returned,"Works as expected, good value",Chelsey Dietrich,Roscoeview,Keebler LLC,142.56
+1368,4,2026-04-02 18:00:00,Books,3,358.97,0.0,Completed,"Exceeded expectations, highly recommend",Patricia Lebsack,South Elvis,Robel-Corkery,1076.91
+1369,1,2026-04-03 00:00:00,Apparel,5,132.72,0.1,Completed,"Item arrived damaged, poor packaging",Leanne Graham,Gwenborough,Romaguera-Crona,597.24
+1370,8,2026-04-03 06:00:00,Electronics,4,399.91,0.05,Completed,"Terrible quality, requesting refund",Nicholas Runolfsdottir V,Aliyaview,Abernathy Group,1519.66
+1371,4,2026-04-03 12:00:00,Apparel,5,303.6,0.05,Cancelled,Great product and fast delivery,Patricia Lebsack,South Elvis,Robel-Corkery,1442.1
+1372,7,2026-04-03 18:00:00,Electronics,2,63.65,0.1,Completed,Great product and fast delivery,Kurtis Weissnat,Howemouth,Johns Group,114.57
+1373,5,2026-04-04 00:00:00,Electronics,3,377.15,0.1,Completed,"Exceeded expectations, highly recommend",Chelsey Dietrich,Roscoeview,Keebler LLC,1018.3
+1374,4,2026-04-04 06:00:00,Electronics,3,91.72,0.05,Completed,"Works as expected, good value",Patricia Lebsack,South Elvis,Robel-Corkery,261.4
+1375,9,2026-04-04 12:00:00,Home & Kitchen,5,199.22,0.05,Returned,"Terrible quality, requesting refund",Glenna Reichert,Bartholomebury,Yost and Sons,946.3
+1376,1,2026-04-04 18:00:00,Apparel,5,255.2,0.1,Completed,"Terrible quality, requesting refund",Leanne Graham,Gwenborough,Romaguera-Crona,1148.4
+1377,8,2026-04-05 00:00:00,Apparel,5,232.83,0.2,Completed,"Terrible quality, requesting refund",Nicholas Runolfsdottir V,Aliyaview,Abernathy Group,931.32
+1378,8,2026-04-05 06:00:00,Home & Kitchen,4,313.48,0.1,Completed,"Item arrived damaged, poor packaging",Nicholas Runolfsdottir V,Aliyaview,Abernathy Group,1128.53
+1379,4,2026-04-05 12:00:00,Apparel,3,298.92,0.1,Cancelled,Great product and fast delivery,Patricia Lebsack,South Elvis,Robel-Corkery,807.08
+1380,3,2026-04-05 18:00:00,Home & Kitchen,3,446.54,0.1,Completed,Great product and fast delivery,Clementine Bauch,McKenziehaven,Romaguera-Jacobson,1205.66
+1381,1,2026-04-06 00:00:00,Electronics,5,449.75,0.0,Cancelled,"Exceeded expectations, highly recommend",Leanne Graham,Gwenborough,Romaguera-Crona,2248.75
+1382,10,2026-04-06 06:00:00,Books,2,239.66,0.05,Returned,"Item arrived damaged, poor packaging",Clementina DuBuque,Lebsackbury,Hoeger LLC,455.35
+1383,10,2026-04-06 12:00:00,Apparel,2,56.41,0.1,Cancelled,"Works as expected, good value",Clementina DuBuque,Lebsackbury,Hoeger LLC,101.54
+1384,3,2026-04-06 18:00:00,Electronics,5,331.61,0.0,Cancelled,"Works as expected, good value",Clementine Bauch,McKenziehaven,Romaguera-Jacobson,1658.05
+1385,1,2026-04-07 00:00:00,Books,2,439.85,0.05,Returned,Great product and fast delivery,Leanne Graham,Gwenborough,Romaguera-Crona,835.72
+1386,2,2026-04-07 06:00:00,Home & Kitchen,2,153.47,0.0,Completed,"Works as expected, good value",Ervin Howell,Wisokyburgh,Deckow-Crist,306.94
+1387,1,2026-04-07 12:00:00,Electronics,3,215.63,0.1,Returned,Great product and fast delivery,Leanne Graham,Gwenborough,Romaguera-Crona,582.2
+1388,9,2026-04-07 18:00:00,Electronics,2,199.78,0.0,Returned,Great product and fast delivery,Glenna Reichert,Bartholomebury,Yost and Sons,399.56
+1389,9,2026-04-08 00:00:00,Electronics,5,37.37,0.0,Completed,Great product and fast delivery,Glenna Reichert,Bartholomebury,Yost and Sons,186.85
+1390,2,2026-04-08 06:00:00,Electronics,5,307.44,0.0,Returned,"Exceeded expectations, highly recommend",Ervin Howell,Wisokyburgh,Deckow-Crist,1537.2
+1391,8,2026-04-08 12:00:00,Electronics,2,168.7,0.0,Completed,"Works as expected, good value",Nicholas Runolfsdottir V,Aliyaview,Abernathy Group,337.4
+1392,2,2026-04-08 18:00:00,Home & Kitchen,3,357.55,0.1,Completed,"Exceeded expectations, highly recommend",Ervin Howell,Wisokyburgh,Deckow-Crist,965.39
+1393,4,2026-04-09 00:00:00,Apparel,5,376.97,0.05,Returned,"Works as expected, good value",Patricia Lebsack,South Elvis,Robel-Corkery,1790.61
+1394,6,2026-04-09 06:00:00,Books,4,372.24,0.1,Completed,"Item arrived damaged, poor packaging",Mrs. Dennis Schulist,South Christy,Considine-Lockman,1340.06
+1395,8,2026-04-09 12:00:00,Home & Kitchen,2,196.25,0.05,Completed,"Terrible quality, requesting refund",Nicholas Runolfsdottir V,Aliyaview,Abernathy Group,372.88
+1396,9,2026-04-09 18:00:00,Home & Kitchen,3,154.87,0.1,Returned,"Exceeded expectations, highly recommend",Glenna Reichert,Bartholomebury,Yost and Sons,418.15
+1397,1,2026-04-10 00:00:00,Apparel,4,340.74,0.2,Completed,"Works as expected, good value",Leanne Graham,Gwenborough,Romaguera-Crona,1090.37
+1398,2,2026-04-10 06:00:00,Electronics,4,363.6,0.2,Cancelled,Great product and fast delivery,Ervin Howell,Wisokyburgh,Deckow-Crist,1163.52
+1399,3,2026-04-10 12:00:00,Electronics,1,228.7,0.2,Completed,"Item arrived damaged, poor packaging",Clementine Bauch,McKenziehaven,Romaguera-Jacobson,182.96
+1400,4,2026-04-10 18:00:00,Home & Kitchen,2,403.47,0.05,Returned,"Exceeded expectations, highly recommend",Patricia Lebsack,South Elvis,Robel-Corkery,766.59
+1401,10,2026-04-11 00:00:00,Electronics,5,77.6,0.1,Cancelled,"Works as expected, good value",Clementina DuBuque,Lebsackbury,Hoeger LLC,349.2
+1402,8,2026-04-11 06:00:00,Electronics,2,397.39,0.1,Cancelled,"Exceeded expectations, highly recommend",Nicholas Runolfsdottir V,Aliyaview,Abernathy Group,715.3
+1403,4,2026-04-11 12:00:00,Electronics,2,56.8,0.1,Completed,"Works as expected, good value",Patricia Lebsack,South Elvis,Robel-Corkery,102.24
+1404,10,2026-04-11 18:00:00,Books,2,81.78,0.2,Cancelled,Great product and fast delivery,Clementina DuBuque,Lebsackbury,Hoeger LLC,130.85
+1405,5,2026-04-12 00:00:00,Apparel,1,247.22,0.2,Completed,"Exceeded expectations, highly recommend",Chelsey Dietrich,Roscoeview,Keebler LLC,197.78
+1406,6,2026-04-12 06:00:00,Home & Kitchen,1,44.37,0.1,Completed,"Terrible quality, requesting refund",Mrs. Dennis Schulist,South Christy,Considine-Lockman,39.93
+1407,5,2026-04-12 12:00:00,Apparel,2,37.97,0.2,Completed,"Terrible quality, requesting refund",Chelsey Dietrich,Roscoeview,Keebler LLC,60.75
+1408,2,2026-04-12 18:00:00,Electronics,5,15.23,0.1,Returned,"Exceeded expectations, highly recommend",Ervin Howell,Wisokyburgh,Deckow-Crist,68.54
+1409,10,2026-04-13 00:00:00,Electronics,1,204.8,0.0,Returned,Great product and fast delivery,Clementina DuBuque,Lebsackbury,Hoeger LLC,204.8
+1410,1,2026-04-13 06:00:00,Electronics,2,351.96,0.05,Completed,"Exceeded expectations, highly recommend",Leanne Graham,Gwenborough,Romaguera-Crona,668.72
+1411,2,2026-04-13 12:00:00,Home & Kitchen,1,30.15,0.0,Completed,"Item arrived damaged, poor packaging",Ervin Howell,Wisokyburgh,Deckow-Crist,30.15
+1412,3,2026-04-13 18:00:00,Electronics,3,298.73,0.0,Cancelled,"Exceeded expectations, highly recommend",Clementine Bauch,McKenziehaven,Romaguera-Jacobson,896.19
+1413,3,2026-04-14 00:00:00,Electronics,2,373.06,0.1,Completed,Great product and fast delivery,Clementine Bauch,McKenziehaven,Romaguera-Jacobson,671.51
+1414,2,2026-04-14 06:00:00,Books,4,88.08,0.05,Completed,"Works as expected, good value",Ervin Howell,Wisokyburgh,Deckow-Crist,334.7
+1415,1,2026-04-14 12:00:00,Apparel,3,78.89,0.1,Completed,"Terrible quality, requesting refund",Leanne Graham,Gwenborough,Romaguera-Crona,213.0
+1416,7,2026-04-14 18:00:00,Apparel,4,389.45,0.1,Completed,Great product and fast delivery,Kurtis Weissnat,Howemouth,Johns Group,1402.02
+1417,10,2026-04-15 00:00:00,Apparel,4,373.06,0.2,Returned,Great product and fast delivery,Clementina DuBuque,Lebsackbury,Hoeger LLC,1193.79
+1418,2,2026-04-15 06:00:00,Home & Kitchen,3,249.44,0.1,Cancelled,"Exceeded expectations, highly recommend",Ervin Howell,Wisokyburgh,Deckow-Crist,673.49
+1419,3,2026-04-15 12:00:00,Electronics,5,371.35,0.1,Completed,Great product and fast delivery,Clementine Bauch,McKenziehaven,Romaguera-Jacobson,1671.08
+1420,6,2026-04-15 18:00:00,Home & Kitchen,3,55.35,0.05,Completed,"Terrible quality, requesting refund",Mrs. Dennis Schulist,South Christy,Considine-Lockman,157.75
+1421,10,2026-04-16 00:00:00,Books,5,186.6,0.05,Completed,"Exceeded expectations, highly recommend",Clementina DuBuque,Lebsackbury,Hoeger LLC,886.35
+1422,7,2026-04-16 06:00:00,Apparel,5,335.94,0.2,Returned,"Terrible quality, requesting refund",Kurtis Weissnat,Howemouth,Johns Group,1343.76
+1423,8,2026-04-16 12:00:00,Apparel,3,126.99,0.0,Returned,"Works as expected, good value",Nicholas Runolfsdottir V,Aliyaview,Abernathy Group,380.97
+1424,6,2026-04-16 18:00:00,Electronics,4,342.26,0.1,Completed,"Works as expected, good value",Mrs. Dennis Schulist,South Christy,Considine-Lockman,1232.14
+1425,5,2026-04-17 00:00:00,Electronics,2,234.32,0.1,Returned,"Terrible quality, requesting refund",Chelsey Dietrich,Roscoeview,Keebler LLC,421.78
+1426,2,2026-04-17 06:00:00,Books,5,341.37,0.0,Cancelled,"Works as expected, good value",Ervin Howell,Wisokyburgh,Deckow-Crist,1706.85
+1427,9,2026-04-17 12:00:00,Apparel,4,217.14,0.2,Completed,"Works as expected, good value",Glenna Reichert,Bartholomebury,Yost and Sons,694.85
+1428,9,2026-04-17 18:00:00,Electronics,5,175.04,0.05,Cancelled,Great product and fast delivery,Glenna Reichert,Bartholomebury,Yost and Sons,831.44
+1429,1,2026-04-18 00:00:00,Apparel,2,110.35,0.0,Returned,"Terrible quality, requesting refund",Leanne Graham,Gwenborough,Romaguera-Crona,220.7
+1430,8,2026-04-18 06:00:00,Apparel,4,105.65,0.2,Completed,"Terrible quality, requesting refund",Nicholas Runolfsdottir V,Aliyaview,Abernathy Group,338.08
+1431,1,2026-04-18 12:00:00,Apparel,3,341.9,0.0,Completed,"Terrible quality, requesting refund",Leanne Graham,Gwenborough,Romaguera-Crona,1025.7
+1432,8,2026-04-18 18:00:00,Home & Kitchen,1,66.73,0.2,Returned,Great product and fast delivery,Nicholas Runolfsdottir V,Aliyaview,Abernathy Group,53.38
+1433,9,2026-04-19 00:00:00,Electronics,1,52.4,0.0,Completed,"Terrible quality, requesting refund",Glenna Reichert,Bartholomebury,Yost and Sons,52.4
+1434,2,2026-04-19 06:00:00,Home & Kitchen,3,91.69,0.1,Completed,"Terrible quality, requesting refund",Ervin Howell,Wisokyburgh,Deckow-Crist,247.56
+1435,5,2026-04-19 12:00:00,Apparel,2,91.28,0.1,Completed,Great product and fast delivery,Chelsey Dietrich,Roscoeview,Keebler LLC,164.3
+1436,2,2026-04-19 18:00:00,Books,1,373.05,0.05,Returned,"Exceeded expectations, highly recommend",Ervin Howell,Wisokyburgh,Deckow-Crist,354.4
+1437,6,2026-04-20 00:00:00,Electronics,3,188.35,0.2,Completed,"Works as expected, good value",Mrs. Dennis Schulist,South Christy,Considine-Lockman,452.04
+1438,10,2026-04-20 06:00:00,Electronics,4,445.82,0.2,Returned,"Works as expected, good value",Clementina DuBuque,Lebsackbury,Hoeger LLC,1426.62
+1439,1,2026-04-20 12:00:00,Apparel,2,74.69,0.1,Cancelled,"Terrible quality, requesting refund",Leanne Graham,Gwenborough,Romaguera-Crona,134.44
+1440,4,2026-04-20 18:00:00,Apparel,5,299.29,0.0,Cancelled,"Works as expected, good value",Patricia Lebsack,South Elvis,Robel-Corkery,1496.45
+1441,10,2026-04-21 00:00:00,Home & Kitchen,4,210.2,0.2,Cancelled,"Works as expected, good value",Clementina DuBuque,Lebsackbury,Hoeger LLC,672.64
+1442,4,2026-04-21 06:00:00,Apparel,3,185.92,0.1,Completed,"Item arrived damaged, poor packaging",Patricia Lebsack,South Elvis,Robel-Corkery,501.98
+1443,2,2026-04-21 12:00:00,Books,5,395.66,0.2,Completed,"Exceeded expectations, highly recommend",Ervin Howell,Wisokyburgh,Deckow-Crist,1582.64
+1444,5,2026-04-21 18:00:00,Apparel,3,439.38,0.0,Completed,"Exceeded expectations, highly recommend",Chelsey Dietrich,Roscoeview,Keebler LLC,1318.14
+1445,6,2026-04-22 00:00:00,Electronics,1,394.69,0.1,Cancelled,Great product and fast delivery,Mrs. Dennis Schulist,South Christy,Considine-Lockman,355.22
+1446,7,2026-04-22 06:00:00,Electronics,1,98.65,0.0,Returned,"Terrible quality, requesting refund",Kurtis Weissnat,Howemouth,Johns Group,98.65
+1447,4,2026-04-22 12:00:00,Books,5,111.05,0.1,Completed,Great product and fast delivery,Patricia Lebsack,South Elvis,Robel-Corkery,499.72
+1448,10,2026-04-22 18:00:00,Electronics,5,300.39,0.1,Completed,"Item arrived damaged, poor packaging",Clementina DuBuque,Lebsackbury,Hoeger LLC,1351.76
+1449,6,2026-04-23 00:00:00,Books,4,140.75,0.1,Returned,"Exceeded expectations, highly recommend",Mrs. Dennis Schulist,South Christy,Considine-Lockman,506.7
+1450,3,2026-04-23 06:00:00,Electronics,1,334.61,0.1,Completed,Great product and fast delivery,Clementine Bauch,McKenziehaven,Romaguera-Jacobson,301.15
+1451,10,2026-04-23 12:00:00,Electronics,2,261.39,0.0,Completed,"Item arrived damaged, poor packaging",Clementina DuBuque,Lebsackbury,Hoeger LLC,522.78
+1452,10,2026-04-23 18:00:00,Electronics,1,254.65,0.1,Completed,"Item arrived damaged, poor packaging",Clementina DuBuque,Lebsackbury,Hoeger LLC,229.18
+1453,5,2026-04-24 00:00:00,Home & Kitchen,1,375.42,0.1,Completed,"Terrible quality, requesting refund",Chelsey Dietrich,Roscoeview,Keebler LLC,337.88
+1454,1,2026-04-24 06:00:00,Apparel,2,324.08,0.1,Completed,"Works as expected, good value",Leanne Graham,Gwenborough,Romaguera-Crona,583.34
+1455,6,2026-04-24 12:00:00,Home & Kitchen,3,26.56,0.05,Cancelled,"Works as expected, good value",Mrs. Dennis Schulist,South Christy,Considine-Lockman,75.7
+1456,6,2026-04-24 18:00:00,Home & Kitchen,1,36.51,0.1,Cancelled,"Exceeded expectations, highly recommend",Mrs. Dennis Schulist,South Christy,Considine-Lockman,32.86
+1457,2,2026-04-25 00:00:00,Apparel,5,276.68,0.0,Returned,"Works as expected, good value",Ervin Howell,Wisokyburgh,Deckow-Crist,1383.4
+1458,7,2026-04-25 06:00:00,Home & Kitchen,3,226.49,0.1,Completed,"Terrible quality, requesting refund",Kurtis Weissnat,Howemouth,Johns Group,611.52
+1459,9,2026-04-25 12:00:00,Books,2,128.18,0.1,Cancelled,Great product and fast delivery,Glenna Reichert,Bartholomebury,Yost and Sons,230.72
+1460,2,2026-04-25 18:00:00,Apparel,3,197.12,0.1,Completed,"Item arrived damaged, poor packaging",Ervin Howell,Wisokyburgh,Deckow-Crist,532.22
+1461,8,2026-04-26 00:00:00,Electronics,4,344.69,0.1,Completed,"Exceeded expectations, highly recommend",Nicholas Runolfsdottir V,Aliyaview,Abernathy Group,1240.88
+1462,2,2026-04-26 06:00:00,Apparel,2,374.58,0.1,Cancelled,"Exceeded expectations, highly recommend",Ervin Howell,Wisokyburgh,Deckow-Crist,674.24
+1463,8,2026-04-26 12:00:00,Books,1,259.13,0.1,Cancelled,"Terrible quality, requesting refund",Nicholas Runolfsdottir V,Aliyaview,Abernathy Group,233.22
+1464,5,2026-04-26 18:00:00,Electronics,1,182.64,0.0,Completed,"Item arrived damaged, poor packaging",Chelsey Dietrich,Roscoeview,Keebler LLC,182.64
+1465,1,2026-04-27 00:00:00,Books,5,132.75,0.2,Completed,Great product and fast delivery,Leanne Graham,Gwenborough,Romaguera-Crona,531.0
+1466,10,2026-04-27 06:00:00,Apparel,1,242.03,0.1,Returned,"Exceeded expectations, highly recommend",Clementina DuBuque,Lebsackbury,Hoeger LLC,217.83
+1467,2,2026-04-27 12:00:00,Home & Kitchen,4,151.92,0.05,Completed,"Terrible quality, requesting refund",Ervin Howell,Wisokyburgh,Deckow-Crist,577.3
+1468,6,2026-04-27 18:00:00,Electronics,2,260.38,0.05,Completed,"Item arrived damaged, poor packaging",Mrs. Dennis Schulist,South Christy,Considine-Lockman,494.72
+1469,2,2026-04-28 00:00:00,Books,4,309.34,0.2,Completed,"Works as expected, good value",Ervin Howell,Wisokyburgh,Deckow-Crist,989.89
+1470,10,2026-04-28 06:00:00,Electronics,1,43.74,0.2,Cancelled,"Terrible quality, requesting refund",Clementina DuBuque,Lebsackbury,Hoeger LLC,34.99
+1471,8,2026-04-28 12:00:00,Electronics,5,15.46,0.2,Completed,"Works as expected, good value",Nicholas Runolfsdottir V,Aliyaview,Abernathy Group,61.84
+1472,9,2026-04-28 18:00:00,Apparel,4,107.34,0.0,Returned,"Exceeded expectations, highly recommend",Glenna Reichert,Bartholomebury,Yost and Sons,429.36
+1473,5,2026-04-29 00:00:00,Apparel,3,404.11,0.1,Returned,Great product and fast delivery,Chelsey Dietrich,Roscoeview,Keebler LLC,1091.1
+1474,5,2026-04-29 06:00:00,Apparel,2,296.14,0.1,Cancelled,"Item arrived damaged, poor packaging",Chelsey Dietrich,Roscoeview,Keebler LLC,533.05
+1475,7,2026-04-29 12:00:00,Electronics,5,89.8,0.0,Completed,Great product and fast delivery,Kurtis Weissnat,Howemouth,Johns Group,449.0
+1476,8,2026-04-29 18:00:00,Electronics,2,402.26,0.1,Completed,"Terrible quality, requesting refund",Nicholas Runolfsdottir V,Aliyaview,Abernathy Group,724.07
+1477,9,2026-04-30 00:00:00,Electronics,3,219.43,0.1,Completed,"Terrible quality, requesting refund",Glenna Reichert,Bartholomebury,Yost and Sons,592.46
+1478,1,2026-04-30 06:00:00,Apparel,2,222.1,0.1,Completed,"Exceeded expectations, highly recommend",Leanne Graham,Gwenborough,Romaguera-Crona,399.78
+1479,7,2026-04-30 12:00:00,Electronics,2,421.96,0.05,Completed,"Works as expected, good value",Kurtis Weissnat,Howemouth,Johns Group,801.72
+1480,2,2026-04-30 18:00:00,Apparel,3,40.88,0.1,Returned,Great product and fast delivery,Ervin Howell,Wisokyburgh,Deckow-Crist,110.38
+1481,3,2026-05-01 00:00:00,Apparel,1,108.6,0.2,Returned,"Works as expected, good value",Clementine Bauch,McKenziehaven,Romaguera-Jacobson,86.88
+1482,9,2026-05-01 06:00:00,Home & Kitchen,1,269.81,0.0,Completed,Great product and fast delivery,Glenna Reichert,Bartholomebury,Yost and Sons,269.81
+1483,3,2026-05-01 12:00:00,Apparel,2,100.04,0.1,Returned,"Terrible quality, requesting refund",Clementine Bauch,McKenziehaven,Romaguera-Jacobson,180.07
+1484,8,2026-05-01 18:00:00,Home & Kitchen,1,310.59,0.1,Completed,"Terrible quality, requesting refund",Nicholas Runolfsdottir V,Aliyaview,Abernathy Group,279.53
+1485,5,2026-05-02 00:00:00,Apparel,3,108.13,0.2,Completed,"Exceeded expectations, highly recommend",Chelsey Dietrich,Roscoeview,Keebler LLC,259.51
+1486,3,2026-05-02 06:00:00,Home & Kitchen,5,58.13,0.2,Completed,"Item arrived damaged, poor packaging",Clementine Bauch,McKenziehaven,Romaguera-Jacobson,232.52
+1487,4,2026-05-02 12:00:00,Home & Kitchen,1,105.04,0.2,Completed,"Item arrived damaged, poor packaging",Patricia Lebsack,South Elvis,Robel-Corkery,84.03
+1488,6,2026-05-02 18:00:00,Electronics,1,198.89,0.2,Cancelled,Great product and fast delivery,Mrs. Dennis Schulist,South Christy,Considine-Lockman,159.11
+1489,8,2026-05-03 00:00:00,Electronics,1,91.62,0.1,Completed,"Works as expected, good value",Nicholas Runolfsdottir V,Aliyaview,Abernathy Group,82.46
+1490,7,2026-05-03 06:00:00,Home & Kitchen,3,73.59,0.1,Returned,"Works as expected, good value",Kurtis Weissnat,Howemouth,Johns Group,198.69
+1491,10,2026-05-03 12:00:00,Electronics,2,389.22,0.1,Completed,"Terrible quality, requesting refund",Clementina DuBuque,Lebsackbury,Hoeger LLC,700.6
+1492,9,2026-05-03 18:00:00,Apparel,3,154.37,0.2,Returned,"Terrible quality, requesting refund",Glenna Reichert,Bartholomebury,Yost and Sons,370.49
+1493,8,2026-05-04 00:00:00,Electronics,1,171.93,0.0,Completed,Great product and fast delivery,Nicholas Runolfsdottir V,Aliyaview,Abernathy Group,171.93
+1494,7,2026-05-04 06:00:00,Apparel,2,39.04,0.1,Returned,"Item arrived damaged, poor packaging",Kurtis Weissnat,Howemouth,Johns Group,70.27
+1495,3,2026-05-04 12:00:00,Apparel,3,170.46,0.2,Cancelled,"Works as expected, good value",Clementine Bauch,McKenziehaven,Romaguera-Jacobson,409.1
+1496,5,2026-05-04 18:00:00,Home & Kitchen,3,130.19,0.2,Completed,"Item arrived damaged, poor packaging",Chelsey Dietrich,Roscoeview,Keebler LLC,312.46
+1497,2,2026-05-05 00:00:00,Apparel,3,280.56,0.05,Completed,Great product and fast delivery,Ervin Howell,Wisokyburgh,Deckow-Crist,799.6
+1498,4,2026-05-05 06:00:00,Electronics,4,104.34,0.05,Completed,"Exceeded expectations, highly recommend",Patricia Lebsack,South Elvis,Robel-Corkery,396.49
+1499,10,2026-05-05 12:00:00,Books,3,401.44,0.1,Completed,"Terrible quality, requesting refund",Clementina DuBuque,Lebsackbury,Hoeger LLC,1083.89
+1500,5,2026-05-05 18:00:00,Apparel,5,419.4,0.2,Completed,"Works as expected, good value",Chelsey Dietrich,Roscoeview,Keebler LLC,1677.6
